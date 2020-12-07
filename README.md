@@ -1,6 +1,6 @@
 # Homework 01
 
-Project Title: Homework 01
+Project Title: Code Refactor
 
 A code refactor assignment. 
 
